@@ -1,2 +1,2 @@
 #!/bin/bash
-dirname `readlink -f 0x00-shell_basics/0-current_working_directory`
+readlink -f 0x00-shell_basics/0-current_working_directory
